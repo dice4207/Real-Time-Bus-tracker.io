@@ -23,13 +23,13 @@ const busStops = [
     container: 'map',
     style: 'mapbox://styles/mapbox/streets-v11',
     center: [-71.104081, 42.365554],
-    zoom: 10
+    zoom: 12
   });
   
 
   let marker = new mapboxgl.Marker().setLngLat([-71.092761, 42.357575]).addTo(map);
   
-  // counter here represents the index of the current bus stop
+  
   let counter = 0;
   function move() {
     

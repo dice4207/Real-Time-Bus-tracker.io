@@ -1,6 +1,6 @@
 # Real-Time-Bus-tracking
 ## Real-Time-Bus-tracking
-<img src= "busTracker.png" width='300'/>
+<img src= "busTracker.jpg" width='300'/>
 
 dice4207/Real-Time-Bus-traker.io is licensed under the
 GNU General Public License v3.0
